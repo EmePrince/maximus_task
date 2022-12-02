@@ -1,0 +1,32 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(73,189,60,1), rgba(25,151,158,1));
+}
+.task-heading{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+}
+.task-description{
+    font-family: 'Open Sans', sans-serif;
+    color: #F3FFE2;
+    font-size: 12px;
+}
+img{
+    width: 100%;
+    cursor: pointer;
+}
+#gallery-modal .modal-img {
+    width: 100%;
+}
+
+.modal{
+    text-decoration: none !important;
+    border: 0px 0px 0px 0px !important;
+}
+
+.modal-content{
+    background-color: transparent;
+    border: 0;
+}
+
